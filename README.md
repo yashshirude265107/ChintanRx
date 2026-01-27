@@ -1,6 +1,6 @@
-# 🏥 ChintanEx – MERN Stack Doctor Appointment Management System
+# 🏥 ChintanEx – Doctor Appointment Management System
 
-ChintanEx is a **full-stack MERN application** inspired by Prescripto, designed for **online doctor appointment booking** with separate panels for **User, Doctor, and Admin**.
+ChintanEx is a **full-stack MERN stack application** inspired by Prescripto, designed for **online doctor appointment booking** with separate panels for **User, Doctor, and Admin**.
 
 ---
 
