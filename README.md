@@ -82,9 +82,9 @@ cd ../frontend
 npm install
 npm run dev
 
----
 ```
 ###👨‍💻 Author
+
 📌 MERN Stack Developer
 🔗 GitHub: https://github.com/yashshirude265107
 
