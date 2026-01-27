@@ -71,18 +71,18 @@ git clone https://github.com/yashshirude265107/ChintanEx.git
 cd ChintanEx
 ```
 ### 2️⃣ Backend Setup
-```
+```bash
 cd ChintanEx-full-stack/backend
 npm install
 npm run server
 ```
 ### 3️⃣ Frontend Setup
-```
+```bash
 cd ../frontend
 npm install
 npm run dev
 ---
-
+```
 ## 👨‍💻 Author
 
 **Yash Shirude**  
