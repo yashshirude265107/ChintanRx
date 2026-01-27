@@ -69,19 +69,21 @@ ChintanEx-full-stack/
 ```bash
 git clone https://github.com/yashshirude265107/ChintanEx.git
 cd ChintanEx
-
+```
 ### 2️⃣ Backend Setup
+```
 cd ChintanEx-full-stack/backend
 npm install
 npm run server
-
+```
 ### 3️⃣ Frontend Setup
+```
 cd ../frontend
 npm install
 npm run dev
 
 ---
-
+```
 ###👨‍💻 Author
 📌 MERN Stack Developer
 🔗 GitHub: https://github.com/yashshirude265107
