@@ -81,17 +81,18 @@ npm run server
 cd ../frontend
 npm install
 npm run dev
-
-```
 ---
 
-###👨‍💻 Author
+## 👨‍💻 Author
 
-📌 MERN Stack Developer
-🔗 GitHub: https://github.com/yashshirude265107
+**Yash Shirude**  
+🚀 MERN Stack Developer  
+
+🔗 GitHub: [yashshirude265107](https://github.com/yashshirude265107)
 
 ---
 
-###⭐ Support
+## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, please consider giving it a ⭐ on GitHub.  
+Your support really means a lot! 🙌
