@@ -1,13 +1,16 @@
 # 🏥 ChintanEx – Doctor Appointment Management System
 
-ChintanEx is a **full-stack MERN stack application** inspired by Prescripto, designed for **online doctor appointment booking** with separate panels for **User, Doctor, and Admin**.
+**ChintanEx** is a **scalable full-stack MERN application** built to simplify and digitize the **doctor appointment booking process**.  
+It provides a **secure, role-based system** with dedicated dashboards for **Users, Doctors, and Admin**, enabling smooth appointment management, profile handling, and system control from a single platform.
+
+The project focuses on **real-world healthcare workflows**, clean UI, secure authentication, and efficient data handling.
 
 ---
 
 ## 🚀 Features
 
 ### 👤 User Panel
-- User registration & login (JWT authentication)
+- User registration & login (**JWT Authentication**)
 - Browse doctors by speciality
 - Book doctor appointments
 - View & manage appointments
@@ -15,35 +18,35 @@ ChintanEx is a **full-stack MERN stack application** inspired by Prescripto, des
 
 ### 🩺 Doctor Panel
 - Doctor login
-- View appointments
-- Update profile
+- View assigned appointments
+- Update profile & availability
 - Dashboard overview
 
 ### 🛠️ Admin Panel
 - Admin login
-- Add / manage doctors
-- View all appointments
-- Dashboard with statistics
+- Add, update & manage doctors
+- View all users & appointments
+- System dashboard with statistics
 
 ---
 
 ## 🧰 Tech Stack
 
-### Frontend
+### 🔹 Frontend
 - React.js
 - Tailwind CSS
 - Vite
 
-### Backend
+### 🔹 Backend
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 - JWT Authentication
-- Multer (file upload)
-- Cloudinary (image storage)
+- Multer (File Upload)
+- Cloudinary (Image Storage)
 
-### Tools & Services
+### 🔹 Tools & Services
 - Git & GitHub
 - Postman
 - Vercel (Frontend Deployment)
