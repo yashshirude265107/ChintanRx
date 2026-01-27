@@ -83,6 +83,8 @@ npm install
 npm run dev
 
 ```
+---
+
 ###👨‍💻 Author
 
 📌 MERN Stack Developer
