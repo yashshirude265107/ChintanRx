@@ -1,4 +1,4 @@
-# 🏥 ChintanEx – Doctor Appointment System
+# 🏥 ChintanRx – Doctor Appointment System
 
 **ChintanEx** is a **scalable full-stack MERN application** built to simplify and digitize the **doctor appointment booking process**.  
 It provides a **secure, role-based system** with dedicated dashboards for **Users, Doctors, and Admin**, enabling smooth appointment management, profile handling, and system control from a single platform.
